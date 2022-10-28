@@ -1,6 +1,7 @@
-# 15-MechaCar_Statistical_Analysis
+# Module 15 Challenge
+## Deliverable 1
  
-## Linear Regression to Predict MPG
+### Linear Regression to Predict MPG
 ![Multiple Linear Regression to Predict MPG](resources/multiple_linear_regression.png)
 
 - The coefficients that provided a non-random amount of variance to the MPG values in the dataset were: vehicle_length, vehicle_weight, and ground_clearance. I used the significance codes key to determine how impactful each coefficient was. 
