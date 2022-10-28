@@ -5,10 +5,10 @@
 ![Multiple Linear Regression to Predict MPG](resources/multiple_linear_regression.png)
 
 From Deliverable 1,
->
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Is the slope of the linear model considered to be zero? Why or why not?
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+>- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+>- Is the slope of the linear model considered to be zero? Why or why not?
+>- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
 - The coefficients that provided a non-random amount of variance to the MPG values in the dataset were: vehicle_length, vehicle_weight, and ground_clearance. I used the significance codes key to determine how impactful each coefficient was. 
