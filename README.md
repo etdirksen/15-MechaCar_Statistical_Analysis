@@ -34,3 +34,22 @@ The current manufacturing data does not meet this design specification for all m
 ### T-Tests on Suspension Coils
 
 ![T-tests on Suspension Coil Data](resources/t-tests.png)
+
+The image above shows the four different t-tests conducted on the Suspension Coil Data:
+1. a test of a sample of all lots against the mean of the population
+   - significance level = 0.05
+   - p-value = 0.1458
+   - p-value > significance level, therefore we do not have sufficient evidence to reject the null hypothesis
+2. a test of a sample of lot 1 against the mean of the population
+   - significance level = 0.05
+   - p-value = 1.585e-06 (.000001585)
+   - p-value < significance level, therefore we have sufficient evidence to reject the null hypothesis
+3. a test of a sample of lot 2 against the mean of the population
+   - signficance level = 0.05
+   - p-value = 0.006384
+   - p-value < significance level, therefore we have sufficient evidence to reject the null hypothesis
+4. a test of a sample of lot 3 against the mean of the population
+   - significance level = 0.05
+   - p-value = 0.21
+   - p-value > significance level, therefore we do not have sufficient evidence to reject the null hypothesis
+
