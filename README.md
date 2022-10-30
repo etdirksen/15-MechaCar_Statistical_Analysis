@@ -33,7 +33,7 @@ The current manufacturing data does not meet this design specification for all m
 
 ### T-Tests on Suspension Coils
 
-![T-tests on Suspension Coil Data](resources/t-tests.png)
+![t-Tests on Suspension Coil Data](resources/t-tests.png)
 
 The image above shows the four different t-tests conducted on the Suspension Coil Data:
 1. a test of a sample of all lots against the mean of the population
@@ -53,3 +53,7 @@ The image above shows the four different t-tests conducted on the Suspension Coi
    - p-value = 0.21
    - p-value > significance level, therefore we do not have sufficient evidence to reject the null hypothesis
 
+## Deliverable 4
+
+### Study Design: MechaCar vs Competition
+The design of this analysis could serve as the base for another analysis of a different company, and could lead to larger, more comprehensive analyses of the two (or more) companies in the future. I am interested in the metrics of cost, horsepower, weight, ground clearance, city/highway MPG. My null hypothesis is that these variables together impact the overall fuel efficiency of the car. I would perform a multiple linear regression test of these metrics against city/highway MPG to determine this because individually, these are all independent variables while the car's fuel efficiency is the dependent variable. To perform this analysis, I would need data from cars made from both automakers that include these metrics.
