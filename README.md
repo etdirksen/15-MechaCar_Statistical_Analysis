@@ -28,3 +28,9 @@ The current manufacturing data does not meet this design specification for all m
 - Lot 1 has a variance of 0.9795918, so this passes the design specifications
 - Lot 2 has a variance of 7.4693878, so this passes the design specifications
 - Lot 3 has a variance of 170.2861224, this does not pass design specifications as it exceeds 100 PSI
+
+## Deliverable 3
+
+### T-Tests on Suspension Coils
+
+![T-tests on Suspension Coil Data](resources/t-tests.png)
